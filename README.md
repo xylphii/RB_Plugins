@@ -1,2 +1,1 @@
-# Example
-An example greeter plugin
+# A few automated plugins made for a hijacked RuneLite client
